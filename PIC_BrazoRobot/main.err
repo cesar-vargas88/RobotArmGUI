@@ -1,0 +1,6 @@
+Warning[2068] C:\Encoder\main.c 30 : obsolete use of implicit 'int' detected
+Warning[2066] C:\Encoder\main.c 47 : type qualifier mismatch in assignment
+Warning[2066] C:\Encoder\main.c 52 : type qualifier mismatch in assignment
+Warning[2066] C:\Encoder\main.c 57 : type qualifier mismatch in assignment
+Warning[2066] C:\Encoder\main.c 62 : type qualifier mismatch in assignment
+Warning[2058] C:\Encoder\main.c 452 : call of function without prototype
